@@ -14,7 +14,7 @@ module.exports = {
     siteDescription: `The Iron Bank of nomWorld`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `nomDAO`,
+    author: `@TheNomDAO`,
   },
   plugins: [
     {
@@ -27,7 +27,7 @@ module.exports = {
       options: {
         name: `Cara - @lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `The Iron Bank of nomWorld`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
